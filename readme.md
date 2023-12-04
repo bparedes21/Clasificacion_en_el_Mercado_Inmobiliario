@@ -35,5 +35,5 @@ Los cambios constantes en los precios de los inmuebles, influenciados por las te
 
 Este proyecto no solo proporcionará a la empresa inversora una herramienta valiosa para evaluar propiedades, sino que también permitirá una comprensión más profunda de las tendencias del mercado inmobiliario colombiano. Con la capacidad de prever la clasificación de propiedades como "baratas" o "caras", se espera que los inversores tomen decisiones más informadas y estratégicas.
 
-¡Únete a nosotros en este apasionante viaje de análisis y clasificación en el dinámico mercado inmobiliario de Colombia! 👩‍💻🏡
+¡Unite en este apasionante viaje de análisis y clasificación en el dinámico mercado inmobiliario de Colombia! 👩‍💻🏡
 
